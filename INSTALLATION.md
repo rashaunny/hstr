@@ -234,7 +234,7 @@ sudo apt install automake gcc make libncursesw5-dev libreadline-dev
 Create build files using:
 
 ```bash
-cd ./build/tarball && ./tarball-automake.sh && cd ../..
+cd ./hstr/build/tarball && ./tarball-automake.sh && cd ../..
 ```
 
 Build and install HSTR using:
